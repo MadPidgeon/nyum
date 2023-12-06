@@ -1,15 +1,15 @@
 :root {
-    --page-background: #eee;
-    --background: white;
+    --page-background: #d9b99b;
+    --background: #faf8f6;
     --foreground: #16161d;
-    --nav: gray;
-    --original-title: gray;
+    --nav: #a69279;
+    --original-title: #a69279;
     --icons-separator: #ccc;
-    --search-bar: #ddd;
+    --search-bar: #faf8f6;
     --search-bar-outline: #ccc;
     --search-results-separator: #ddd;
     --highlighted-search-result: #f8f8f8;
-    --h2: gray;
+    --h2: #a69279;
     --link: #239;
     --attention: #810;
     --horizontal-rule: #ddd;
