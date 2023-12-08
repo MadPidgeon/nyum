@@ -13,7 +13,7 @@
     --link: #239;
     --attention: #810;
     --horizontal-rule: #ddd;
-    --footer: #bbb;
+    --footer: #a69279;;
 
     --sans: Barlow, Fabrikat, Helvetica, sans-serif;
     --serif: Lora, Georgia, serif;
@@ -27,23 +27,22 @@
 
 [data-theme="dark"] {
 /*@media (prefers-color-scheme: dark) {*/
-    :root {
-        --page-background: black;
-        --background: #202020;
-        --foreground: #eee;
-        --nav: #bbb;
-        --original-title: #bbb;
-        --icons-separator: #404040;
-        --search-bar: #383838;
-        --search-bar-outline: #555;
-        --search-results-separator: #383838;
-        --highlighted-search-result: #181818;
-        --h2: #bbb;
-        --link: #9ae;
-        --attention: #fa7;
-        --horizontal-rule: #484848;
-        --footer: #555;
-    }
+    
+    --page-background: black;
+    --background: #202020;
+    --foreground: #eee;
+    --nav: #bbb;
+    --original-title: #bbb;
+    --icons-separator: #404040;
+    --search-bar: #383838;
+    --search-bar-outline: #555;
+    --search-results-separator: #383838;
+    --highlighted-search-result: #181818;
+    --h2: #bbb;
+    --link: #9ae;
+    --attention: #fa7;
+    --horizontal-rule: #484848;
+    --footer: #555;
 
     /* accessing the colors defined inside the svg isn't possible when embedded as an image and i don't want to inline them, so this is the best i can do */
     header .logo,
@@ -474,7 +473,6 @@ footer .updatededit a {
 }
 
 .switch {
-    display: inline-block;
     float: right;
 }
     
@@ -490,7 +488,7 @@ footer .updatededit a {
 }
 
 .slider {
-  background-color: #ccc;
+  background-color: #a69279;;
   bottom: 0;
   cursor: pointer;
   left: 0;

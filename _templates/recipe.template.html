@@ -8,11 +8,20 @@
     <main class="recipe">
         <header>
             <div class="name">
-                <nav>
-                    <a href="index.html"><img class="logo" src="assets/logo.svg"></a>
-                    <i>⟩</i>
-                    $if(category)$<a href="${category_faux_urlencoded}.html">$category$</a> <i>⟩</i>$endif$
-                </nav>
+                <div class="navbar">
+                    <nav>
+                        <a href="index.html"><img class="logo" src="assets/logo.svg"></a>
+                        <i>⟩</i>
+                        $if(category)$<a href="${category_faux_urlencoded}.html">$category$</a> <i>⟩</i>$endif$
+                    </nav>
+                    <div class="switch">
+                        <label class="theme-switch" for="checkbox">
+                            <input type="checkbox" id="checkbox" />
+                            <div class="slider round"></div>
+                            <script src="assets/dark.js"></script>
+                        </label>
+                    </div>
+                </div>
                 <h1><span>$title$$if(favorite)$<sup>★</sup>$endif$</span> $if(original_title)$<em>$original_title$</em>$endif$</h1>
             </div>
             <ul>
