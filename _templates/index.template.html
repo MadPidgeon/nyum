@@ -8,10 +8,19 @@
     <main class="index">
         <header>
             <div class="name">
-                <nav>
-                    <a href="index.html"><img class="logo" src="assets/logo.svg"></a>
-                    <i>⟩</i>
-                </nav>
+                <div class="navbar">
+                    <nav>
+                        <a href="index.html"><img class="logo" src="assets/logo.svg"></a>
+                        <i>⟩</i>
+                    </nav>
+                    <div class="switch">
+                        <label class="theme-switch" for="checkbox">
+                            <input type="checkbox" id="checkbox" />
+                            <div class="slider round"></div>
+                            <script type="assets/dark.js"></script>
+                        </label>
+                    </div>
+                </div>
                 $if(index_title)$
                     <h1><span>$index_title$</span></h1>
                 $else$
