@@ -402,9 +402,10 @@ hr {
 }
 .recipe hr + ul li > code:first-child {
     display: inline-block;
-    margin-left: var(--ingredient-quantity-column-width);
-    margin-right: calc(-1 * var(--ingredient-quantity-column-width) - .2em);  /* to account for space between em and ingredient name */
     min-width: var(--ingredient-quantity-column-width);
+    padding-right: .7em;
+    text-align: right;
+    margin-right: -.2em;
 }
 code {
     font-family: var(--sans);
