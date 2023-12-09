@@ -2,7 +2,7 @@
 title: Rodelinzencurry
 category: Aziatisch
 description: Simpele rode curry. Te serveren met rijst of naan.
-size: 4 serving
+size: 4 porties
 time: 40 min
 author: Daan
 source: https://rainbowplantlife.com/vegan-red-lentil-curry/#recipe
@@ -17,6 +17,7 @@ vegan: yiss
 > Laat vervolgens de linzen minstens een half uur weken in het water.
 
 ---
+
 * `2 tl` kurkuma
 * `2 tl` komijnpoeder
 * `1 tl` gemalen korianderzaad
@@ -27,6 +28,7 @@ vegan: yiss
 > Meng de kruiden en zet deze aan de kant.
 
 ---
+
 * `1` grote winterpeen
 
 > Snijd de wortel in kleine blokjes en zet deze aan de kant.
