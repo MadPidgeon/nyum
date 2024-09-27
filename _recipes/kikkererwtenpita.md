@@ -1,5 +1,5 @@
 ---
-title: Kikkererwten traybake pita
+title: Kikkererwten traybake
 category: Midden-Oosters
 description: Pita's gevuld met een hummussaus en verscheidene groenten uit de oven.
 size: 2 porties

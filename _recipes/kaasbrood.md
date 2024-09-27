@@ -7,6 +7,7 @@ time: 40 min
 author: Daan
 source: https://sallysbakingaddiction.com/homemade-cheese-bread/
 umami: yiss
+veggie: indeed
 ---
 
 * `450 g` broodbloem
