@@ -12,7 +12,7 @@ vegan: yiss
 * `7 g` gedroogde gist
 * `10 g` zout
 * `30 ml` olijfolie
-* lauw water
+* ` ` lauw water
 
 > Meng de bloem, zout en gist in grote kom, en voeg hier de olijfolie aan toe. 
 > Voeg water toe totdat het deeg na goed kneden net geen bol meer vormt. 
