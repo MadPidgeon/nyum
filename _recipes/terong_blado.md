@@ -1,7 +1,7 @@
 ---
 title: Terong blado
 category: Aziatisch
-description: Indonesische auberginestoof
+description: Indonesische auberginestoof.
 size: 4 porties
 time: 40 min
 author: Mark
@@ -13,6 +13,7 @@ vegan: yiss
 * `400 g` tomaat uit blik
 * `1` ui
 * `2 tenen` knoflook
+* `2 cm` gember
 * `1 tl` sambal
 * `1 tl` palmsuiker
 * `3 el` ketjap manis
