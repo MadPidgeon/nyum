@@ -1,6 +1,6 @@
 ---
 title: Gehaktflappen
-category: Hartige baksels
+category: Amerikaans
 description: Gekruid gehakt in bladerdeeg.
 size: 8 porties
 time: 1 uur

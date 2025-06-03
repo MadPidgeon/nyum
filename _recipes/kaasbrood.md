@@ -1,6 +1,6 @@
 ---
 title: Kaasbrood
-category: Hartige baksels
+category: Amerikaans
 description: Melkbrood gevuld met kaas in de vorm van cinnamon rolls.
 size: 8 porties
 time: 40 min

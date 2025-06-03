@@ -1,6 +1,6 @@
 ---
 title: Focaccia
-category: Hartige baksels
+category: Italiaans
 description: Italiaans brood.
 size: 8 porties
 time: 30 minuten
