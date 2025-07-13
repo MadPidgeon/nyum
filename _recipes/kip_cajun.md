@@ -5,6 +5,7 @@ description: Een kruidig rijstgerecht.
 size: 3 porties
 time: 30 min
 author: Daan
+veggie: indeed
 ---
 
 * `1` groene paprika
