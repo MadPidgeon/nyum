@@ -1,7 +1,7 @@
 ---
-title: Loaded Nachos
+title: Loaded nachos
 category: Amerikaans
-description: Een Mexicaanse snack 
+description: Een Mexicaanse snack.
 size: 3 porties
 time: 30 min
 author: Daan

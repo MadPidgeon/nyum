@@ -7,7 +7,7 @@ time: 1 uur
 author: Daan
 source: https://blijebietjes.nl/hartige-bladerdeeg-flappen-pittig-gehakt
 spicy: ✓
-meat: yes
+veggie: indeed
 ---
 
 * `1` ui
@@ -20,7 +20,7 @@ meat: yes
 
 ---
 
-* `300 g` (vegetarisch) gehakt
+* `300 g` vegetarisch gehakt
 
 > Voeg het gehakt toe en bak dit rul. Voeg in het geval van vegetarisch gehakt extra olie toe.
 

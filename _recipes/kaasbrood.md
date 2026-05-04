@@ -6,7 +6,6 @@ size: 8 porties
 time: 40 min
 author: Daan
 source: https://sallysbakingaddiction.com/homemade-cheese-bread/
-umami: yiss
 veggie: indeed
 ---
 

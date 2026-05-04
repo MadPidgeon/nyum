@@ -1,5 +1,5 @@
 ---
-title: Paprika Pasta
+title: Paprika pasta
 category: Italiaans
 description: Een rode pastasaus met paprika en olijf.
 size: 3 porties

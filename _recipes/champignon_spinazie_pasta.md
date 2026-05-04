@@ -1,5 +1,5 @@
 ---
-title: Champignon Pasta
+title: Champignon pasta
 category: Italiaans
 description: Een witte pastasaus met champignon en spinazie.
 size: 3 porties
